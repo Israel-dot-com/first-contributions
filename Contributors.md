@@ -97,6 +97,7 @@
 - [kanazawazawa](https://github.com/kanazawazawa)
 - [anelevo](https://github.com/Anelevo)
 - [Mohammed Shahul](https://github.com/mshahulpm)
+- [Aregbesola Israel](https://github.com/Israel-dot-com)
 - [Michael Alls](https://github.com/mallsjr)
 - [Thanh Hoan](https://github.com/thanhhoann)
 - [Caleb Penning](https://github.com/calebpenning)
